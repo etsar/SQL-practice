@@ -1,4 +1,4 @@
-# Case Study #2 - Foodie-Fi
+# Case Study #3 - Foodie-Fi
 <div>
 <img src="https://user-images.githubusercontent.com/94500188/216427477-bfbea1d6-475b-4001-9ede-c396d0155923.png" width="500"/>
 </div>
